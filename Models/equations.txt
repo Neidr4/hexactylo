@@ -1,0 +1,14 @@
+﻿"main_length"= 130mm
+"main_width" = 115mm
+"thumb_length"= 80mm
+"thumb_angle"= 135deg
+"main_heigth_bot"= 15mm
+"main_heigth_top"= 20mm
+"thumb_heigth_bot" = 10mm
+"curve_heigth"= 5mm
+"thumb_wide_bot" = 25mm
+"thumb_wide_top" = 45mm
+"draft_angle"= 0.5
+"hexa_s"= 18.05mm
+"hexa_hexa_gap"= 2mm
+"hexa_space" = "hexa_s" + "hexa_hexa_gap"
